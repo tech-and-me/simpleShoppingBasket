@@ -14,7 +14,8 @@ The purpose of the app is to any online buy/sell transactions convient for both 
 
 
 #How to access/use this application ?
-to start using this application, it is very easy, you will just have to click the link below as it has already been deployed on gitHub.
+to start using this application, it is very easy, there is no setup required as it is cloud-based.
+All you have to do is to click the link below and it will bring you to the Simple Shopping Basket App.
 https://tech-and-me.github.io/simpleShoppingBasket/
 
 
